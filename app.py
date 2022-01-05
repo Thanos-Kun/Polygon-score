@@ -44,4 +44,4 @@ if col1.button("Calculate"):
                 st.warning(f"Your score is {score_100}")
                 st.write(score)
         else:
-            st.warning("Please perform some transactions on Polygon.")
+            st.warning("Please perform some transactions
