@@ -1,7 +1,4 @@
-import streamlit as st
-import requests
-import pandas as pd
-from ethereum.utils import check_checksum
+.utils import check_checksum
 
 st.set_page_config(
    page_title="Polygon Score",
